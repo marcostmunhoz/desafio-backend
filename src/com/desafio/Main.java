@@ -7,8 +7,8 @@ import java.sql.ResultSet;
 import java.sql.DriverManager;
 
 public class Main {
-    private static final String USUARIO = "marcos";
-    private static final String SENHA = "98564831";
+    private static final String USUARIO = "root";
+    private static final String SENHA = "";
     private static final String URL = "jdbc:mysql://localhost:3306/banco_desafio_backend";
     private static final String DRIVER = "com.mysql.jdbc.Driver";
 
