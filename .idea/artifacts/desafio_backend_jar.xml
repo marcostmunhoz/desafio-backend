@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="desafio_backend:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/desafio_backend_jar</output-path>
+    <root id="archive" name="desafio_backend.jar">
+      <element id="module-output" name="desafio_backend" />
+      <element id="extracted-dir" path="D:/Downloads/mysql-connector-java-5.1.44.tar/mysql-connector-java-5.1.44/mysql-connector-java-5.1.44-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
